@@ -14,6 +14,8 @@ int main(){
         cout<<arr[i] <<endl;
         cout<< "Hello" <<endl;
         cout<< "Hello" <<endl;
+        cout<< "Hello" <<endl;
+
         
 
     }
